@@ -6,3 +6,8 @@ btn_menuPrincipal.addEventListener("click",() => {
     menuPrincipal.classList.toggle("ocultar")
 });
 
+todosmenusprincipais.forEach(e => {
+    e.addEventListener("click", () => {
+        menuPrincipal.classList.add("ocultar")
+    })
+})

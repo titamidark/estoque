@@ -150,13 +150,15 @@ body{
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
+    flex-direction: column;
     background-color: var(--fundo-janela);
+    padding: 5px;
     width: 100%;
 }
 .rodapePopup{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-around;
+    align-items: flex-start;
     background-color: var(--azul-principal);
     border-radius: 0 0 5px 5px;
     padding: 5px;
@@ -166,4 +168,30 @@ body{
     width: 20px;
     cursor: pointer;
 }
+.btn_comandopopup{
+    background-color: #012d4b;
+    border: none;
+    color: #fff;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+.campoForm{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100%;
+}
+.campoForm input, .campoForm select{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
 /***********************************************/

@@ -23,8 +23,42 @@
             <div>Novo Colaborador</div>
             <img src="../../imgs/close.svg" class="btn_janelaopera" id="btn_fechar">
           </div>
-          <div class="corpoPopup"> teste corpo</div>
-          <div class="rodapePopup">teste rodape</div>
+
+          <div class="corpoPopup">
+            <div class="campoForm">
+              <label>Nome Colaborador</label>
+              <label for="f_nome"></label>
+              <input type="text" id="f_nome" name="f_nome">
+            </div>
+            <div class="campoForm">
+              <label>Tipo Colaborador</label>
+              <label for="f_tipo"></label>
+              <select id="f_tipo" name="f_tipo">
+                <option>teste</option>
+              </select>
+            </div>
+            <div class="campoForm">
+              <label>Status Colaborador</label>
+              <label for="f_status"></label>
+              <select id="f_status" name="f_status">
+                <option value="A">Ativo</option>
+                <option value="I">Inativo</option>
+              </select>
+            </div>
+            <div class="campoForm">
+              <label>Telefone(s) Colaborador</label>
+              <label for="f_telefone"></label>
+              <input type="text" id="f_telefone" name="f_nome">
+            </div>
+
+
+          </div>
+
+          <div class="rodapePopup">
+            <button id="btn_gravar" class="btn_comandopopup">Gravar</button>
+            <button id="btn_cancelar" class="btn_comandopopup">Cancelar</button>
+          </div>
+
         </div>
       </div>
     </div>

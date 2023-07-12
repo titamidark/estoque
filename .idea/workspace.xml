@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9da406f-8f93-4820-8cc9-a9c4b03a27be" name="Changes" comment="Aula 189 Finalizada!">
-      <change afterPath="$PROJECT_DIR$/imgs/close.svg" afterDir="false" />
+    <list default="true" id="b9da406f-8f93-4820-8cc9-a9c4b03a27be" name="Changes" comment="Aula 190 Finalizada!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backoffice/colaboradores/colaboradores.html" beforeDir="false" afterPath="$PROJECT_DIR$/backoffice/colaboradores/colaboradores.html" afterDir="false" />
@@ -68,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1689175957608</updated>
-      <workItem from="1689175958670" duration="19384000" />
+      <workItem from="1689175958670" duration="22898000" />
     </task>
     <task id="LOCAL-00001" summary="Arquivos Iniciais do Projeto">
       <option name="closed" value="true" />
@@ -126,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689199689904</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Aula 190 Finalizada!">
+      <option name="closed" value="true" />
+      <created>1689201760263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689201760263</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers>
       <GitHub url="https://github.com">
         <option name="repoAuthor" value="titamidark" />
@@ -177,6 +184,7 @@
     <MESSAGE value="Finalização da Aula 187" />
     <MESSAGE value="Aula 188 Finalizada!" />
     <MESSAGE value="Aula 189 Finalizada!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 189 Finalizada!" />
+    <MESSAGE value="Aula 190 Finalizada!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula 190 Finalizada!" />
   </component>
 </project>

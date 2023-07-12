@@ -57,3 +57,40 @@ body{
     height: 100%;
     border: none;
 }
+
+/* FORMATAÇÃO DAS GRIDES */
+.grid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.tituloGrid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #248;
+    color: #fff;
+}
+.colunaTituloGrid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dadosGrid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.linhaGrid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.colunaLinhaGrid{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/***********************************************/
